@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Basic HTML Page</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            max-width: 600px;
+            margin: auto;
+            background-color: #f0f0f0;
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is a basic HTML page with inline CSS.</p>
+
+    <!-- Add more content here -->
+
+    <!-- Example of an image -->
+    <!-- <img src="image.jpg" alt="Example Image"> -->
+
+    <!-- Example of a link -->
+    <!-- <a href="https://www.example.com">Visit Example Website</a> -->
+
+</body>
+
+</html>
